@@ -1,0 +1,13 @@
+{
+  "name": "cpp-nrf24l01-sensor-client",
+  "description": "Dependencies for cpp-nrf24l01-sensor-client project",
+  "version": "1.0",
+  "authors": [
+    { "name": "frinux" }
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "RF24": "https://github.com/TMRh20/RF24.git"
+  }
+}
+
